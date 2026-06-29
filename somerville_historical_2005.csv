@@ -1,0 +1,51 @@
+SegmentID,StreetName,FromCrossSt,ToCrossSt,Neighborhood,LengthFt,LaneCount,RoadClass,PCI_Score,SurveyDate,SurveyedBy,PavementType,LastTreatmentType,LastTreatmentYr,AADT_Count,Comments
+SOM-0118,Highland Avenue,Cross St,Main St,Davis Square,1115,2,Collector,99,2005-08-21,K. Doyle,Asphalt,New construction,2006,4800,2005 baseline condition survey
+SOM-0204,Somerville Avenue,Cross St,Main St,Spring Hill,1241,2,Collector,13,2005-09-26,K. Doyle,Asphalt,None,1990,4800,Heavy rutting and potholing throughout
+SOM-0337,Broadway,Cross St,Main St,Mount Vernon,2521,2,Collector,99,2005-05-02,P. Nguyen,Asphalt,Mill and overlay,2003,2200,2005 baseline condition survey
+SOM-0412,Elm Street,Cross St,Main St,Spring Hill,867,2,Local,99,2005-08-19,R. Almeida,Asphalt,New construction,2008,13500,2005 baseline condition survey
+SOM-0455,College Avenue,Cross St,Main St,West Somerville,1298,2,Collector,99,2005-08-21,P. Nguyen,Asphalt,Crack seal,2009,2200,2005 baseline condition survey
+SOM-0509,Beacon Street,Cross St,Main St,Spring Hill,1302,2,Collector,99,2005-09-10,R. Almeida,Asphalt,Pothole patch,2004,9100,2005 baseline condition survey
+SOM-0561,Washington Street,Cross St,Main St,Inner Belt,404,2,Local,32,2005-08-03,R. Almeida,Asphalt,None,1998,3400,Crumbling shoulder and centerline cracking
+SOM-0602,Medford Street,Cross St,Main St,Brickbottom,1452,2,Collector,30,2005-08-23,J. Costa,Asphalt,None,1996,2200,Failed pavement - base failure visible
+SOM-0648,Walnut Street,Cross St,Main St,Winter Hill,1129,2,Collector,29,2005-05-10,P. Nguyen,Asphalt,None,1993,7800,"Longstanding deferred maintenance, very poor ride quality"
+SOM-0691,Cedar Street,Cross St,Main St,Tufts/Spring Hill,935,2,Local,99,2005-05-01,K. Doyle,Asphalt,Pothole patch,2008,4800,2005 baseline condition survey
+SOM-0700,Cross Street,Cross St,Main St,Winter Hill,2535,2,Collector,99,2005-06-15,P. Nguyen,Asphalt,Full reconstruction,2001,9100,2005 baseline condition survey
+SOM-0703,School Street,Cross St,Main St,Ten Hills,2234,2,Collector,99,2005-08-14,R. Almeida,Asphalt,Full reconstruction,2004,9100,2005 baseline condition survey
+SOM-0706,Central Street,Cross St,Main St,Winter Hill,2151,2,Collector,99,2005-06-06,P. Nguyen,Asphalt,Full reconstruction,2005,11200,2005 baseline condition survey
+SOM-0709,Summer Street,Cross St,Main St,Ball Square,2150,2,Collector,99,2005-08-09,J. Costa,Asphalt,Full reconstruction,2009,3400,2005 baseline condition survey
+SOM-0712,Linwood Street,Cross St,Main St,Winter Hill,2079,2,Collector,31,2005-05-03,P. Nguyen,Asphalt,None,1990,2200,"Edge raveling severe, surface disintegrating"
+SOM-0715,Glen Street,Cross St,Main St,Spring Hill,1948,2,Collector,19,2005-09-15,M. Ferreira,Asphalt,None,1998,7800,"Subgrade failure suspected, multiple potholes"
+SOM-0718,Berkeley Street,Cross St,Main St,Ball Square,1932,2,Collector,99,2005-06-10,J. Costa,Asphalt,Crack seal,2003,3400,2005 baseline condition survey
+SOM-0721,Lowell Street,Cross St,Main St,Spring Hill,1910,2,Collector,14,2005-06-22,P. Nguyen,Asphalt,None,1993,13500,"Block cracking advanced, poor drainage"
+SOM-0724,Marshall Street,Cross St,Main St,Spring Hill,1897,2,Collector,99,2005-05-04,J. Costa,Asphalt,New construction,2001,6200,2005 baseline condition survey
+SOM-0727,Concord Avenue,Cross St,Main St,Spring Hill,1852,2,Collector,99,2005-08-27,K. Doyle,Asphalt,New construction,2002,7800,2005 baseline condition survey
+SOM-0730,Willow Avenue,Cross St,Main St,Spring Hill,1673,2,Collector,99,2005-06-16,J. Costa,Asphalt,New construction,2005,4800,2005 baseline condition survey
+SOM-0733,Sycamore Street,Cross St,Main St,Spring Hill,1643,2,Collector,99,2005-05-09,M. Ferreira,Asphalt,New construction,2003,9100,2005 baseline condition survey
+SOM-0736,Vinal Avenue,Cross St,Main St,Ball Square,1570,2,Collector,99,2005-06-10,M. Ferreira,Asphalt,Crack seal,2003,7800,2005 baseline condition survey
+SOM-0739,Hudson Street,Cross St,Main St,Winter Hill,1522,2,Collector,99,2005-08-11,R. Almeida,Asphalt,New construction,2001,7800,2005 baseline condition survey
+SOM-0742,Newton Street,Cross St,Main St,Magoun Square,1495,2,Collector,99,2005-07-02,J. Costa,Asphalt,Crack seal,2001,4800,2005 baseline condition survey
+SOM-0745,Prospect Street,Cross St,Main St,Spring Hill,1467,2,Collector,99,2005-07-05,K. Doyle,Asphalt,Crack seal,2006,4800,2005 baseline condition survey
+SOM-0748,Bow Street,Cross St,Main St,East Somerville,1455,2,Collector,99,2005-06-26,M. Ferreira,Asphalt,Pothole patch,2001,4800,2005 baseline condition survey
+SOM-0751,Webster Avenue,Cross St,Main St,Ball Square,1438,2,Collector,99,2005-08-26,M. Ferreira,Asphalt,Mill and overlay,2003,7800,2005 baseline condition survey
+SOM-0754,Dane Street,Cross St,Main St,Spring Hill,1391,2,Collector,99,2005-09-01,K. Doyle,Asphalt,Full reconstruction,2002,3400,2005 baseline condition survey
+SOM-0757,Cherry Street,Cross St,Main St,Spring Hill,1319,2,Collector,99,2005-08-24,P. Nguyen,Asphalt,Crack seal,2006,13500,2005 baseline condition survey
+SOM-0760,Jaques Street,Cross St,Main St,Ten Hills,1318,2,Collector,99,2005-09-03,K. Doyle,Asphalt,New construction,2009,11200,2005 baseline condition survey
+SOM-0763,Banks Street,Cross St,Main St,Magoun Square,1311,2,Collector,99,2005-06-23,J. Costa,Asphalt,Crack seal,2002,11200,2005 baseline condition survey
+SOM-0766,Boston Avenue,Cross St,Main St,Spring Hill,1302,2,Collector,99,2005-07-10,K. Doyle,Asphalt,New construction,2005,11200,2005 baseline condition survey
+SOM-0769,Sacramento Street,Cross St,Main St,Winter Hill,1242,2,Collector,99,2005-08-08,R. Almeida,Asphalt,Crack seal,2002,4800,2005 baseline condition survey
+SOM-0772,Electric Avenue,Cross St,Main St,Spring Hill,1228,2,Collector,99,2005-06-07,P. Nguyen,Asphalt,New construction,2009,4800,2005 baseline condition survey
+SOM-0775,Tower Street,Cross St,Main St,Spring Hill,1210,2,Collector,99,2005-06-16,K. Doyle,Asphalt,New construction,2003,11200,2005 baseline condition survey
+SOM-0778,Franklin Street,Cross St,Main St,Ball Square,1190,2,Collector,99,2005-05-15,J. Costa,Asphalt,New construction,2009,3400,2005 baseline condition survey
+SOM-0781,Putnam Street,Cross St,Main St,Davis Square,1150,2,Collector,99,2005-09-16,R. Almeida,Asphalt,New construction,2006,7800,2005 baseline condition survey
+SOM-0784,Munroe Street,Cross St,Main St,Ball Square,1131,2,Collector,99,2005-07-28,J. Costa,Asphalt,Full reconstruction,2002,13500,2005 baseline condition survey
+SOM-0787,Kidder Avenue,Cross St,Main St,Spring Hill,1090,2,Collector,99,2005-06-13,P. Nguyen,Asphalt,New construction,2008,2200,2005 baseline condition survey
+SOM-0790,Albion Street,Cross St,Main St,Spring Hill,1083,2,Collector,29,2005-06-26,P. Nguyen,Asphalt,None,1991,9100,"Severe alligator cracking, recommend full reconstruction"
+SOM-0793,Curtis Street,Cross St,Main St,Spring Hill,1021,2,Local,99,2005-07-03,K. Doyle,Asphalt,Pothole patch,2007,11200,2005 baseline condition survey
+SOM-0796,Joy Street,Cross St,Main St,Spring Hill,1020,2,Local,99,2005-05-25,R. Almeida,Asphalt,Full reconstruction,2006,2200,2005 baseline condition survey
+SOM-0799,Pearl Street,Cross St,Main St,Spring Hill,1015,2,Local,99,2005-07-18,J. Costa,Asphalt,Crack seal,2007,13500,2005 baseline condition survey
+SOM-0802,Pennsylvania Avenue,Cross St,Main St,Spring Hill,1004,2,Local,99,2005-08-05,P. Nguyen,Asphalt,Mill and overlay,2001,6200,2005 baseline condition survey
+SOM-0805,Mystic Avenue,Cross St,Main St,Spring Hill,1003,2,Local,99,2005-09-19,M. Ferreira,Asphalt,New construction,2004,2200,2005 baseline condition survey
+SOM-0808,Temple Street,Cross St,Main St,Spring Hill,1001,2,Local,99,2005-05-07,P. Nguyen,Asphalt,Pothole patch,2003,6200,2005 baseline condition survey
+SOM-0811,Atherton Street,Cross St,Main St,Davis Square,988,2,Local,99,2005-07-09,M. Ferreira,Asphalt,Mill and overlay,2003,11200,2005 baseline condition survey
+SOM-0814,Walker Street,Cross St,Main St,Union Square,984,2,Local,99,2005-07-18,M. Ferreira,Asphalt,New construction,2003,4800,2005 baseline condition survey
+SOM-0817,Cameron Avenue,Cross St,Main St,Spring Hill,981,2,Local,99,2005-05-14,R. Almeida,Asphalt,Crack seal,2005,9100,2005 baseline condition survey
